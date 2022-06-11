@@ -1,6 +1,8 @@
 {
   "version": "0.1.0",
   "license": "MIT",
+  "homepage": "https://super-picker.netlify.app/",
+  "repository": "https://github.com/sshahriazz/super-picker.git",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
